@@ -1,4 +1,4 @@
-print('CUT WORD "PIZZA"')
+print('CUT "PIZZA"')
 
 word = 'pizza'
 
