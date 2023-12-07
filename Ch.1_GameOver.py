@@ -24,4 +24,4 @@ print('''
 
 
 
-input('\n\nНажмите Enter, чтобы выйти.')
+input('\n\nPress Enter to Exit')

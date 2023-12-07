@@ -1,6 +1,6 @@
-word = input('Введите слово: ')
+word = input('Enter word: ')
 
-print('\nВот все буквы вашего слова по порядку:')
+print('\nAll letters:')
 
 for letter in word:
     print(letter)

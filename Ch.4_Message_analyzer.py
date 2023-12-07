@@ -1,13 +1,12 @@
-print('Анализ текста')
+print('Text analyze')
 
-message = input('Введите текст: ')
+message = input('Enter text: ')
 
-print(f'\nДлина текста: {len(message)}')
+print(f'\nText len: {len(message)}')
 
-letter = input('Введите букву: ')
+letter = input('Enter letter: ')
 
 if letter in message:
-    print(f'{letter} встречается в тексте')
+    print(f'{letter} in text')
 else:
-    print(f'{letter} не встречается в тексте')
-    
+    print(f'{letter} not in text')
